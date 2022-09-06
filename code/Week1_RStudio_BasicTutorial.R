@@ -22,6 +22,8 @@
 10/2
 2^10
 
+#making a change
+
 #But what if you want to save the answer to one of these equations? You can create an 'object' in R with '<-' as follows:
 a <- 2+2
 a
